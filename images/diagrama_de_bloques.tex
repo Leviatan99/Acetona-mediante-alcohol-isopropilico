@@ -1,0 +1,13 @@
+\begin{center}
+  \begin{psmatrix}[rowsep=1cm,colsep=1cm]
+    & [name=test,mnode=dia] ¿test?
+    & [name=testn] \psframebox{\parbox{4cm}{\centering Cosas que hacer cuando el test es falso}} \\
+    & [name=tests] \psframebox{\parbox{4.2cm}{\centering Cosas que hacer cuando el test es cierto}} \\
+    & [name=restoprog] \psframebox{\parbox{3cm}{\centering Resto del programa}} \\
+
+    \ncline{->}{test}{testn}\naput{No}
+    \ncline{->}{test}{tests}\naput{Sí}
+    \ncline{->}{tests}{restoprog}
+    \ncangle[angleA=-90]{->}{testn}{restoprog}
+  \end{psmatrix}
+\end{center}

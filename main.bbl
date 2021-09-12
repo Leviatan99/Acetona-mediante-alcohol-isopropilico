@@ -1,0 +1,190 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Abdullah%
+, Mohamed%
+\BCBL {}\ \BBA {} Ali%
+}{%
+Abdullah%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2017}}%
+}]{%
+abdullah2017production}
+\APACinsertmetastar {%
+abdullah2017production}%
+\begin{APACrefauthors}%
+Abdullah, A\BPBI M.%
+, Mohamed, M\BPBI E.%
+\BCBL {}\ \BBA {} Ali, M\BPBI F.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {production of Acetone from iso-propanol} {production of
+  acetone from iso-propanol}.{\BBCQ}
+\newblock
+
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Acevedo%
+}{%
+Acevedo%
+}{%
+{\protect \APACyear {2016}}%
+}]{%
+acevedotrabajo}
+\APACinsertmetastar {%
+acevedotrabajo}%
+\begin{APACrefauthors}%
+Acevedo, F\BPBI J\BPBI V.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2016}.
+\unskip\
+\newblock
+\APACrefbtitle {Ingeniería Conceptual de una Planta de Producción de Acetona}
+  {Ingeniería conceptual de una planta de producción de acetona}\
+  \APACtypeAddressSchool {\BUPhD}{}{}.
+\unskip\
+\newblock
+\APACaddressSchool {}{Escuela Técnica Superior de Ingeniería Universidad de
+  Sevilla}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Garc{\'\i}a~G{\'o}mez%
+}{%
+Garc{\'\i}a~G{\'o}mez%
+}{%
+{\protect \APACyear {2020}}%
+}]{%
+garcia2020ingenieria}
+\APACinsertmetastar {%
+garcia2020ingenieria}%
+\begin{APACrefauthors}%
+Garc{\'\i}a~G{\'o}mez, R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2020}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Ingenier{\'\i}a b{\'a}sica de una planta de
+  producci{\'o}n de acetona a partir de isopropanol} {Ingenier{\'\i}a
+  b{\'a}sica de una planta de producci{\'o}n de acetona a partir de
+  isopropanol}.{\BBCQ}
+\newblock
+
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Luyben%
+}{%
+Luyben%
+}{%
+{\protect \APACyear {2010}}%
+}]{%
+article}
+\APACinsertmetastar {%
+article}%
+\begin{APACrefauthors}%
+Luyben, W.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2010}{03}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Design and Control of the Acetone Process via
+  Dehydrogenation of 2-Propanol} {Design and control of the acetone process via
+  dehydrogenation of 2-propanol}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Industrial & Engineering Chemistry Research - IND ENG
+  CHEM RES}{50}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Quiroz~Valiente%
+\ \BBA {} Solano~Mateo%
+}{%
+Quiroz~Valiente%
+\ \BBA {} Solano~Mateo%
+}{%
+{\protect \APACyear {2014}}%
+}]{%
+quiroz2014diseno}
+\APACinsertmetastar {%
+quiroz2014diseno}%
+\begin{APACrefauthors}%
+Quiroz~Valiente, L\BPBI A.%
+\BCBT {}\ \BBA {} Solano~Mateo, A\BPBI R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Dise{\~n}o de una planta industrial para la
+  producci{\'o}n de acetona a partir de alcohol isoprop{\'\i}lico.} {Dise{\~n}o
+  de una planta industrial para la producci{\'o}n de acetona a partir de
+  alcohol isoprop{\'\i}lico.}{\BBCQ}
+\newblock
+
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+C\BPBI A.~Smith%
+, Corripio%
+\BCBL {}\ \BBA {} Basurto%
+}{%
+C\BPBI A.~Smith%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2007}}%
+}]{%
+smith1991control}
+\APACinsertmetastar {%
+smith1991control}%
+\begin{APACrefauthors}%
+Smith, C\BPBI A.%
+, Corripio, A\BPBI B.%
+\BCBL {}\ \BBA {} Basurto, S\BPBI D\BPBI M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2007}.
+\newblock
+\APACrefbtitle {Control autom{\'a}tico de procesos: teor{\'\i}a y pr{\'a}ctica}
+  {Control autom{\'a}tico de procesos: teor{\'\i}a y pr{\'a}ctica}.
+\newblock
+\APACaddressPublisher{}{Limusa M{\'e}xico}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+J\BPBI M.~Smith%
+, Van~Ness%
+\BCBL {}\ \BBA {} Abbott%
+}{%
+J\BPBI M.~Smith%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2007}}%
+}]{%
+smith1997introduccion}
+\APACinsertmetastar {%
+smith1997introduccion}%
+\begin{APACrefauthors}%
+Smith, J\BPBI M.%
+, Van~Ness, H\BPBI C.%
+\BCBL {}\ \BBA {} Abbott.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2007}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Introducci{\'o}n a la termodin{\'a}mica en
+  ingenier{\'\i}a qu{\'\i}mica} {Introducci{\'o}n a la termodin{\'a}mica en
+  ingenier{\'\i}a qu{\'\i}mica}.{\BBCQ}
+\newblock
+
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}
