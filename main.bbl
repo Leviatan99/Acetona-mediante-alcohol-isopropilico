@@ -80,6 +80,29 @@ Garc{\'\i}a~G{\'o}mez, R.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+INEGI%
+}{%
+INEGI%
+}{%
+{\protect \APACyear {2009}}%
+}]{%
+INEGI2009}
+\APACinsertmetastar {%
+INEGI2009}%
+\begin{APACrefauthors}%
+INEGI.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2009}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {La industria química en México 2009} {La industria
+  química en méxico 2009}.{\BBCQ}
+\newblock
+
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Luyben%
 }{%
 Luyben%

@@ -15,47 +15,48 @@ Database file #1: referencias.bib
 apacite.bst [2013/07/21 v6.03 APA bibliography style]
 Warning--No journal in abdullah2017production
 Warning--No journal in garcia2020ingenieria
+Warning--No journal in INEGI2009
 Warning--No journal in quiroz2014diseno
 Warning--No journal in smith1997introduccion
-You've used 7 entries,
+You've used 8 entries,
             6951 wiz_defined-function locations,
-            1302 strings with 11824 characters,
-and the built_in function-call counts, 13887 in all, are:
-= -- 1802
-> -- 101
-< -- 663
-+ -- 752
-- -- 16
-* -- 831
-:= -- 2564
-add.period$ -- 29
-call.type$ -- 7
-change.case$ -- 121
+            1307 strings with 11888 characters,
+and the built_in function-call counts, 15211 in all, are:
+= -- 1969
+> -- 111
+< -- 716
++ -- 796
+- -- 20
+* -- 904
+:= -- 2797
+add.period$ -- 33
+call.type$ -- 8
+change.case$ -- 138
 chr.to.int$ -- 0
-cite$ -- 18
-duplicate$ -- 330
-empty$ -- 489
-format.name$ -- 170
-if$ -- 2628
+cite$ -- 21
+duplicate$ -- 353
+empty$ -- 549
+format.name$ -- 184
+if$ -- 2895
 int.to.chr$ -- 0
-int.to.str$ -- 21
+int.to.str$ -- 24
 missing$ -- 0
-newline$ -- 174
-num.names$ -- 56
-pop$ -- 195
+newline$ -- 196
+num.names$ -- 64
+pop$ -- 214
 preamble$ -- 1
-purify$ -- 30
+purify$ -- 34
 quote$ -- 0
-skip$ -- 953
+skip$ -- 1070
 stack$ -- 0
-substring$ -- 837
-swap$ -- 173
-text.length$ -- 17
+substring$ -- 885
+swap$ -- 190
+text.length$ -- 20
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 624
-warning$ -- 4
-while$ -- 68
+type$ -- 704
+warning$ -- 5
+while$ -- 73
 width$ -- 0
-write$ -- 212
-(There were 4 warnings)
+write$ -- 236
+(There were 5 warnings)

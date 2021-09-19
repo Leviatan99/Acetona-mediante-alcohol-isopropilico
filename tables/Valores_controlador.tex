@@ -1,0 +1,14 @@
+\begin{table}[H]
+    \caption{ Ecuaciones para el calculo de los valores de distintos tipos de controladores por el método de Cohen-Coon} 
+    \centering
+    \begin{tabular}{llll}
+    \hline
+    Controlador & $K_c$ & $\tau_D$ & $\tau_I$  \\
+    \hline
+    P                   & $\frac{\tau}{K\:t_d}\left(1 +\frac{t_d}{3 \tau}  \right) $   & -   &-     \\
+    PI                  & $\frac{\tau}{K\:t_d}\left(0.9 +\frac{t_d}{12 \tau}  \right) $   & $ t_d \frac{30 + 3(t_d/\tau)}{9+20(t_d/\tau)}$   &     \\
+    PID                 &  $\frac{\tau}{K\:t_d}\left(4/3 +\frac{t_d}{4 \tau}  \right) $  & $ t_d \frac{32 + 6(t_d/\tau)}{13+8(t_d/\tau)}$   &  $ t_d \frac{4}{11+2(t_d/\tau)}$   \\
+    \hline
+    \end{tabular}
+    \label{tabla:ecucontrol}
+\end{table}

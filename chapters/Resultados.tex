@@ -1,0 +1,80 @@
+\section*{Resultados}
+    Los parámetros de operación de las torres de destilación a partir de su simulación 
+    en columnas DSTWU se muestran en las Tablas \ref{Parametros_DSTWU-1} y 
+    \ref{Parametros_DSTWU-2}.
+
+\input{tables/DSTWU_1.tex}
+\input{tables/DSTWU_2.tex}
+
+    Una vez realizada la simulación, se obtuvieron los valores que se muestran en las Tablas
+    \ref{Tabla resultados}, \ref{cont_tab_3} y \ref{Continuacion resultados 2} para cada una
+    de las corrientes y el gráfico que se muestra en la \textit{Figura \ref{fig:frac_mol}}. 
+    Este gráfico nos muestra el número de etapas en la columna DSTL-1 y la fracción mol de acetona,
+    agua, IPA e hidrógeno. La línea en color rosa nos representa la relación de fracción mol líquida 
+    de acetona respecto al número de etapa, es por ello que en la etapa número uno se tiene una 
+    fracción mol de aproximadamente 0.99 de acetona, ya que es por la parte superior de nuestra 
+    columna por donde sale nuestra corriente de interés que es la acetona. Conforme avanza el
+    número de etapas esta línea va hacia bajo hasta llegar a cero, esto se debe a que no hay
+    pérdida de acetona en el fondo de nuestra columna. Por el contrario, la corriente que sale
+    por el fondo y conecta a nuestra columna de destilación DSTL-2 es 0.946 fracción mol de 
+    agua y 0.054 fracción mol de IPA. La segunda columna de destilación nos permite recuperar el
+    IPA por la parte de arriba de nuestra columna la cual es recirculada al inicio de nuestro 
+    proceso, mientras que en el fondo se obtiene una fracción mol de 0.996 de agua.
+
+\input{tables/Resultados_corrientes_1.tex}
+
+\input{tables/Resultados_corrientes_2.tex}
+
+\input{tables/Resultados_corrientes_3.tex}
+
+        \begin{figure}[H]
+            \centering
+            \includegraphics[scale=0.8]{images/etapas_vs_fracmol.PNG}
+            \caption{Etapas vs Fracción mol de la acetona, agua, IPA e hidrógeno.}
+            \label{fig:frac_mol}
+        \end{figure}
+    Para proponer nuestro sistema de control en el reactor mediante la relación de la 
+    temperatura del reactor y la temperatura de la entrada de la chaqueta, se determinó 
+    que la entrada manipulable  es la temperatura de la chaqueta $T_j$. En este caso como lo 
+    indica el $\Delta H_{rxn} $ positivo, la reacción es endotérmica, por lo tanto es necesario
+    calentar el reactor para llevarlo a la temperatura deseada. Con el balance de energía del 
+    reactor se logró determinar la función de transferencia de nuestro proceso y mediante el 
+    método de Cohen-Coon; ya que teníamos una función de transferencia a lazo abierto, se logró
+    observar la estabilidad de nuestro reactor haciendo uso del software MATLAB como se muestra en 
+    la Figura \ref{fig:unitario}.
+
+\input{tables/Valores_dis_controladores.tex}
+
+        \begin{figure}[H]
+            \centering
+            \includegraphics{images/unitarioM.eps}
+            \caption{Respuesta del sistema ante un escalón unitario}
+            \label{fig:unitario}
+        \end{figure}
+
+    \paragraph{}
+    Para determinar la viabilidad económica del proyecto se tomó en cuenta el costo de los 
+    equipos, su instalación, servicios, mano de obra operativa y de mantenimiento que nos 
+    ofrece el análisis económico de Aspen que se muestra en las Tablas \ref{tab:equipos}, 
+    \ref{tab:servicios}, \ref{tab:serviciosxaño}, \ref{tab:manodeobra} y \ref{tab:resultados}, 
+    por nuestra parte determinamos el costo total de la materia prima y con base en el 
+    análisis de mercado se determinaron las ventas totales del producto, una vez determinada 
+    la tasa de retorno TIR se obtiene una tasa positiva lo cual indica que hemos tenido unos 
+    beneficios mayores a la inversión realizada y por tanto hemos obtenido ganancias.
+    \paragraph{}
+
+\input{tables/Costos_equipos_e_instalacion.tex}
+
+\input{tables/Servicios.tex}
+
+\input{tables/Servicios_por_ano.tex}
+
+\input{tables/Costos_mano_de_obra.tex}
+
+\input{tables/Resumen_resultados.tex}
+
+    La tasa  de retorno TIR  a un periodo de 2 años es de:
+    \textbf{2.104}
+
+        $$0 = - 5,673,990 + \dfrac{13,320,400}{1+TIR} +\dfrac{13,320,400}{(1+TIR)^2}  $$
+    Despejando para TIR se obtiene los 2.104 
